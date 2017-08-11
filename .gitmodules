@@ -1,0 +1,3 @@
+[submodule "plugins/node-build"]
+	path = plugins/node-build
+	url = https://github.com/nodenv/node-build
